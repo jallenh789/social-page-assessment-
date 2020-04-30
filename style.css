@@ -1,0 +1,118 @@
+
+
+body{
+    background-color: rgb(175, 184, 199);
+}
+
+.header{
+    margin: auto;
+    width: 850px;
+    height: 300px;
+    background-color: yellow;
+}
+ 
+.top{
+    position: relative;
+    height: 250px;
+    background-color: rgb(80, 80, 226);
+}
+
+.bottom{
+    height: 50px;
+    background-color: white;
+}
+
+.page-info{
+    position: relative;
+    left: 200px;
+    top: 160px;
+    height: 80px;
+    width: 30%;
+    font-family: sans-serif;
+    font-size: 10px;
+    color: white;
+}
+
+.top-tab{
+    border: 1px dotted black;
+    font-size: medium;
+    font-family: sans-serif;
+    position: relative;
+    width: 40%;
+    float: right;
+    top: 135px;
+}
+
+.top-tab button{
+    width: 20%;
+}
+
+.profile-image{
+    position: relative;
+    background-color: rgb(80, 80, 226);
+    border: 1px dotted black;
+    height: 170px;
+    width: 170px;
+    top: -135px;
+    left: 15px;
+
+}
+
+.bottom-tab{
+    font-size: medium;
+    font-family: sans-serif;
+    position: relative;
+    left: 200px;
+    top: -155px;
+    height: 50px;
+    width: 40%;
+}
+
+.page-body{
+    position: relative;
+    margin: auto;
+    width: 850px;
+    height: 1000px;
+}
+
+.left-column{
+    position: relative;
+    top: 20px;
+    width: 328px;
+    height: 170px;
+    background-color: white;
+    float: left;
+    border: 1px dotted grey;
+}
+
+.text{
+    font-size: 10px;
+    border: 1px dotted grey;
+    position: relative;
+    top: 20px;
+    height: 100px;
+}
+
+.website{
+    border: 1px dotted grey;
+    position: relative;
+    top: 20px;
+    height: 46px;
+}
+
+.right-column{
+    position: relative;
+    top: 20px;
+    float: right;
+    height: 250px;
+    width: 512px;
+    border: 1px dotted grey;
+    background-color: white;
+}
+
+.right-image{
+    position: relative;
+    top: 75px;
+    margin: 5px;
+    background-color: rgb(80, 80, 226);
+}
